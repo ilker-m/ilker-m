@@ -3,9 +3,9 @@
 I'm **İlker**, a passionate software developer with expertise in backend technologies. My journey in software development has equipped me with skills across various domains including web applications, enterprise solutions, and cloud-based systems. I enjoy architecting scalable solutions and continuously learning new technologies to enhance my skill set.
 
 ## 🛠️ Technologies I Work With
-- **Backend:** .NET Core, .NET MVC, Node.js
+- **Backend:** .NET Core, .NET MVC,C# WinForm, Node.js
 - **Databases:** MSSQL, PostgreSQL, MongoDB, MySQL
-- **Frontend:** JavaScript, TypeScript, Angular
+- **Frontend:** JavaScript, TypeScript,Jquery, Angular
 - **Others:** Docker
 
 ## 📫 Contact Me
